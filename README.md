@@ -10,6 +10,7 @@ cp ~/dev/games/<game>/docs/privacy/*.html <game>/privacy/
 
 | Game | URL |
 | --- | --- |
+| Egg League | https://gokhanertogan.github.io/egg-league/privacy/ |
 | Marble Clash | https://gokhanertogan.github.io/marble-clash/privacy/ |
 | Park Out | https://gokhanertogan.github.io/park-out/privacy/ |
 | Pillow Sumo | https://gokhanertogan.github.io/pillow-sumo/privacy/ |
